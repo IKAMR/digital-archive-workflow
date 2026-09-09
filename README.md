@@ -12,6 +12,42 @@ Hvis denne sammenhengen bare finnes i hodet på enkeltpersoner eller i gamle sam
 
 Repoet skal derfor gjøre fagkunnskapen **eksplisitt, etterprøvbar og lett å lese for både mennesker og AI**.
 
+## Sentrale faglige kilder og relaterte prosjekter
+
+De viktigste kildene skal være tilgjengelige direkte fra README:
+
+### Nasjonalarkivet / Arkivverket
+
+- [Arkade](https://arkade.arkivverket.no/)
+- [Arkade 5 – kildekode](https://github.com/nasjonalarkivet/arkade5)
+- [Arkade 5 – dokumentasjon](https://github.com/nasjonalarkivet/arkade5-dokumentasjon)
+- [Arkade 5 – systemdokumentasjon og aktuell liste over Noark 5-tester](https://docs.arkade.nasjonalarkivet.no/no/latest/Systemdokumentasjon.html#noark-5)
+- [Noark 5-standard](https://github.com/nasjonalarkivet/noark5-standard)
+- [Skjema](https://github.com/nasjonalarkivet/schemas)
+
+### KDRS
+
+- [KDRS Prosesser og rutiner](https://www.kdrs.no/kdrs-prosesser)
+- [ProsessDigitaltDepot V1.0](https://prosjekt.kdrs.no/ProsessDigitaltDepot/V1.0/ProsessDigitaltDepot.htm)
+- [ProsessDigitaltDepot V2.02](https://prosjekt.kdrs.no/ProsessDigitaltDepot/V2.02/ProsessDigitaltDepot.htm)
+- [KDRS-SA på GitHub](https://github.com/kdrs-sa)
+
+### IKAMR
+
+- [KDRS Query](https://github.com/IKAMR/KDRS_Query)
+- [KDRS Query – dokumentasjon og XPath/XQuery-kilder](https://github.com/IKAMR/KDRS_Query/tree/master/doc)
+- [KDRS Metadata](https://github.com/IKAMR/KDRS_Metadata)
+- [digitalt-depot-prosesser](https://github.com/IKAMR/digitalt-depot-prosesser)
+- [IKAMR på GitHub](https://github.com/IKAMR)
+
+### SIARD og arbeidsflyt
+
+- [SIARD Workflow Manager](https://github.com/smult/SIARD-Workflow-Manager)
+
+Se [docs/04-REFERANSER.md](docs/04-REFERANSER.md) for et mer detaljert kilderegister med beskrivelse av kildenes rolle og relevans.
+
+Se [dokumentasjon av Arkade 5 sine Noark 5-tester](docs/kilder/arkade5/noark5-tester/README.md) for arbeidet med å beskrive hva de enkelte testene faktisk gjør.
+
 ## Formål
 
 Repoet skal:
