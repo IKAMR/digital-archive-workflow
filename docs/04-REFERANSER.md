@@ -2,6 +2,8 @@
 
 Denne listen er et kuratert kilderegister for `digital-archive-workflow`. Kildene har ulike roller: standarder og skjema, prosessgrunnlag, dokumentasjon, programvare, analyseverktøy og praktiske implementasjoner.
 
+Kilderegisteret fungerer også som varig oversikt over sentrale repo-relasjoner. Ved oppstart av ny utviklingskontekst skal dokumenterte lenker brukes før kjente repo-adresser etterspørres på nytt.
+
 ## Nasjonalarkivet / Arkivverket
 
 ### Arkade 5
@@ -42,6 +44,18 @@ Denne listen er et kuratert kilderegister for `digital-archive-workflow`. Kilden
 **Relevans:** samling av åpne verktøy og prosjekter knyttet til blant annet validering, uttrekk, innsyn, metadata og digitalt depot. Relevante repositories skal kartlegges nærmere.
 
 ## IKAMR
+
+### Noark 5 Workflow Manager
+
+- https://github.com/IKAMR/noark5-workflow-manager
+
+**Relevans:** aktiv implementasjon av arbeidsflyt, jobbmodell, validering, rapportering og depotrelaterte operasjoner. `digital-archive-workflow` er faglig kunnskapsgrunnlag for denne og andre implementasjoner, mens implementasjonsdetaljer skal ligge i applikasjonsrepoet.
+
+### Incremental AI-Assisted Development Method
+
+- https://github.com/IKAMR/incremental-ai-development-method
+
+**Relevans:** felles metodikk for inkrementell AI-assistert programvareutvikling, repository som source of truth, kumulative ZIP-delta, testing, dokumentasjon og menneskestyrt Git. Prosjektspesifikke metodikkobservasjoner samles lokalt i de enkelte utviklingsrepoene før eventuell overføring til denne felles metodikken.
 
 ### KDRS Query
 

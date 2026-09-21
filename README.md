@@ -14,7 +14,7 @@ Repoet skal derfor gjøre fagkunnskapen **eksplisitt, etterprøvbar og lett å l
 
 ## Sentrale faglige kilder og relaterte prosjekter
 
-De viktigste kildene skal være tilgjengelige direkte fra README:
+De viktigste kildene skal være tilgjengelige direkte fra README. Denne oversikten fungerer også som et varig startpunkt for å gjenoppbygge prosjektkontekst i nye utviklingssamtaler uten at kjente repo-relasjoner må oppgis på nytt.
 
 ### Nasjonalarkivet / Arkivverket
 
@@ -34,6 +34,8 @@ De viktigste kildene skal være tilgjengelige direkte fra README:
 
 ### IKAMR
 
+- [Noark 5 Workflow Manager](https://github.com/IKAMR/noark5-workflow-manager)
+- [Incremental AI-Assisted Development Method](https://github.com/IKAMR/incremental-ai-development-method)
 - [KDRS Query](https://github.com/IKAMR/KDRS_Query)
 - [KDRS Query – dokumentasjon og XPath/XQuery-kilder](https://github.com/IKAMR/KDRS_Query/tree/master/doc)
 - [KDRS Metadata](https://github.com/IKAMR/KDRS_Metadata)
