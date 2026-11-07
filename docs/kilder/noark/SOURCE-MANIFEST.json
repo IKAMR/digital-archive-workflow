@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0",
+  "repository": "IKAMR/digital-archive-workflow",
+  "collection": "Noark 3 and Noark 4 historical specifications",
+  "source_archive": "noark.zip",
+  "prepared_date": "2026-11-07",
+  "publication_permission_verified": false,
+  "files": [
+    {
+      "path": "noark3/spesifikasjoner/Noark-3 (1994).pdf",
+      "source_path_in_original_zip": "noark/noark3/Noark-3 (1994).pdf",
+      "source_archive": "noark.zip",
+      "size_bytes": 1774478,
+      "sha256": "1b3432136019603e5c55260f7af924c0d354236c4e3d33bb8bafc39d0774f2c2",
+      "pages": 144
+    },
+    {
+      "path": "noark4/spesifikasjoner/N4 Feilrettingslogg for Noark-4 Del 1 og 2.pdf",
+      "source_path_in_original_zip": "noark/noark4/dok/N4 Feilrettingslogg for Noark-4 Del 1 og 2.pdf",
+      "source_archive": "noark.zip",
+      "size_bytes": 170545,
+      "sha256": "8434cbb7705f43d749f2132eebbd50b3816c160e6d71f06c5183fda5a49612f0",
+      "pages": 9
+    },
+    {
+      "path": "noark4/spesifikasjoner/N4_1 Kravtabellene.pdf",
+      "source_path_in_original_zip": "noark/noark4/dok/N4_1 Kravtabellene.pdf",
+      "source_archive": "noark.zip",
+      "size_bytes": 17318,
+      "sha256": "21a158a66382942e088452819d1ac06024962b622d570c9199b88d5471ab7f10",
+      "pages": 2
+    },
+    {
+      "path": "noark4/spesifikasjoner/N4_endringer_del1.pdf",
+      "source_path_in_original_zip": "noark/noark4/dok/N4_endringer_del1.pdf",
+      "source_archive": "noark.zip",
+      "size_bytes": 67082,
+      "sha256": "0b0109c6dfc30250ad556b5cbe5b4e8f2ae671be1d1f62f4dd09acdb2bf64366",
+      "pages": 10
+    },
+    {
+      "path": "noark4/spesifikasjoner/N4_endringer_del2.pdf",
+      "source_path_in_original_zip": "noark/noark4/dok/N4_endringer_del2.pdf",
+      "source_archive": "noark.zip",
+      "size_bytes": 27397,
+      "sha256": "11a78d9d75a1299cb288b8727aa320cce9d682ab401d8a5c200b1ff82d3eaae4",
+      "pages": 3
+    },
+    {
+      "path": "noark4/spesifikasjoner/Noark-4_del1.pdf",
+      "source_path_in_original_zip": "noark/noark4/dok/Noark-4_del1.pdf",
+      "source_archive": "noark.zip",
+      "size_bytes": 947536,
+      "sha256": "a7781175ce3ac21a0149ee08e8e38d79cd0925d2b829175d99a5df537ceef988",
+      "pages": 235
+    },
+    {
+      "path": "noark4/spesifikasjoner/Noark-4_del2.pdf",
+      "source_path_in_original_zip": "noark/noark4/dok/Noark-4_del2.pdf",
+      "source_archive": "noark.zip",
+      "size_bytes": 2373723,
+      "sha256": "35617381c98ab4d38ad8c8c9ea844a708c77cf4b03738eca5da074b00dc07956",
+      "pages": 254
+    }
+  ]
+}
