@@ -1,37 +1,29 @@
-# Noark - historiske standardspesifikasjoner
+# Noark – standardspesifikasjoner og kildemateriale
 
-Dette er kildebiblioteket for Noark-spesifikasjoner i **digital-archive-workflow**.
-Denne leveransen inneholder **Noark 3 (1994)** og **Noark 4/4.1**.
+Dette er kildebiblioteket for Noark-standarder i **digital-archive-workflow**. Samlingen inneholder historiske kilder og versjonsdelt kildemateriale. En kilde som finnes her, er ikke automatisk gjeldende for alle uttrekk.
 
-| Standard | Mappe | Status i denne leveransen |
+| Standard | Mappe | Registrert innhold |
 | --- | --- | --- |
-| Noark 3 | [`noark3/`](noark3/) | Original PDF, 1994 |
-| Noark 4 / 4.1 | [`noark4/`](noark4/) | Seks originalfiler, inkludert rettelser og endringer |
+| Noark 3 | [`noark3/`](noark3/) | Historisk standardspesifikasjon (PDF) |
+| Noark 4 / 4.1 | [`noark4/`](noark4/) | Standarddokumenter og DTD-filer |
+| Noark 5 | [`noark5/`](noark5/) | Versjon 1.0–6.0 med XSD, standarder, vedlegg og eksempler (varierende dekning) |
 
-## Skjemaer og tilknyttede kilder
+## Kildeprinsipper
 
-Noark 4-DTD-filer kopieres ikke inn her, fordi de allerede er tilgjengelige i
-[IKAMR/schemas - N4](https://github.com/IKAMR/schemas/tree/master/N4).
-De to versjonsmappene i skjemarepoet er separate referanser og skal behandles
-som versjonerte kilder.
+- Standardversjon og relevante vedlegg må vurderes særskilt for hvert arkivuttrekk.
+- Bevar originale filnavn og filinnhold; dokumenter endringer i samlingen.
+- Hold standardkilder atskilt fra egen testing, analyser, vurderinger og beslutninger.
+- Ikke tolk en manglende fil i dette repoet som at dokumentet ikke finnes hos utgiver.
+- Vurder kildenes rettighetsstatus før offentlig viderepublisering.
 
-Noark 5-dokumentasjon fra den innsendte `noark.zip` er bevisst **ikke tatt med**
-i denne deltaen. Ingen produktgodkjenninger, egne arbeidsdokumenter,
-Noark 4-testing, DTD-er eller Noark 5-skjemaer er flyttet hit.
+## Sporbarhet
 
-## Sporbarhet og versjonering
+[`SOURCE-MANIFEST.json`](SOURCE-MANIFEST.json) og [`SHA256SUMS.txt`](SHA256SUMS.txt) dokumenterer foreløpig **bare Noark 3 og Noark 4**, og må utvides for Noark 5. For Noark 5 er filene katalogisert i versjonsvise README-filer, men fullstendig kildeproveniens og kontrollsummer er ikke registrert her. Ikke oppgi dem som verifiserte før de er beregnet og kontrollert.
 
-- Originale filnavn og PDF-innhold er beholdt uendret.
-- [`SOURCE-MANIFEST.json`](SOURCE-MANIFEST.json) registrerer kildeplassering,
-  sidetall, filstørrelse og SHA-256 per dokument.
-- [`SHA256SUMS.txt`](SHA256SUMS.txt) muliggjør bitvis kontroll av PDF-ene.
-- Opphav for denne samlingen: innsendt brukerarkiv `noark.zip`, 2026-11-07.
-- Dokumentene er **historiske kilder** og skal ikke tolkes som gjeldende
-  standardkrav uten særskilt kilde- og versjonsvurdering.
+## Eksterne kilder
 
-## Rettigheter
+- [Nasjonalarkivets Noark 5-standard](https://github.com/nasjonalarkivet/noark5-standard)
+- [Nasjonalarkivets skjemasamling](https://github.com/nasjonalarkivet/schemas)
+- [IKAMR schemas](https://github.com/IKAMR/schemas)
 
-**Rett til offentlig viderepublisering av PDF-kopiene er ikke bekreftet i
-arbeidet med denne deltaen.** Avklar dette før PDF-ene committes til et
-offentlig repository. Ved tvil kan README, kildehenvisninger og kontrollsummer
-publiseres først, mens PDF-ene beholdes lokalt frem til avklaring.
+Se også [`docs/03-KILDER-OG-STATUS.md`](../../03-KILDER-OG-STATUS.md) for prinsipper om kildestatus.
